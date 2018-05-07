@@ -1,0 +1,44 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "borkeAM",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 0.85,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "props": {},
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "fe549421-0fd1-4afd-b493-dc05cf7fab81"
+            }
+          },
+          {
+            "frame": 0.25,
+            "value": {
+              "__uuid__": "69c803dd-df74-4ed5-9a59-a07a6723dc0d"
+            }
+          },
+          {
+            "frame": 0.5833333333333334,
+            "value": {
+              "__uuid__": "509ecfb5-1e4a-4b60-b546-adf7ac3f4d86"
+            }
+          },
+          {
+            "frame": 0.8333333333333334,
+            "value": {
+              "__uuid__": "f09d7e76-acb0-4265-90dc-f0b41719bcde"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

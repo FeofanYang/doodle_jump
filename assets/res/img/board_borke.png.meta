@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "a1622a90-582e-4bbe-a846-d53bcb38e197",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "board_borke": {
+      "ver": "1.0.3",
+      "uuid": "fe549421-0fd1-4afd-b493-dc05cf7fab81",
+      "rawTextureUuid": "a1622a90-582e-4bbe-a846-d53bcb38e197",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -0.5,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 102,
+      "height": 118,
+      "rawWidth": 103,
+      "rawHeight": 118,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
